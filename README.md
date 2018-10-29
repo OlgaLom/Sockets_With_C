@@ -53,7 +53,11 @@ gcc {όνομα αρχείου}.c  -o {όνομα μεταγλωττισμένο
  
 # Notes && Links
 
+<<<<<<< HEAD
 *  	Online calculator για την διακύμανση πολύ βοηθητικό. 
+=======
+*  	Online calculator πολύ βοηθητικό. 
+>>>>>>> f295175c58d18c5c0eda15907b1d2d15273d4edb
 *	[Διακύμανση](https://el.wikipedia.org/wiki/%CE%A3%CF%85%CE%BD%CE%AE%CE%B8%CE%B7%CF%82_%CE%B1%CF%80%CF%8C%CE%BA%CE%BB%CE%B9%CF%83%CE%B7#%CE%92%CE%B1%CF%83%CE%B9%CE%BA%CE%AC_%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%B5%CE%AF%CE%B3%CE%BC%CE%B1%CF%84%CE%B1) Θεωρία (fluctuation). 
 *	[Ευκλείδεια απόσταση](https://el.wikipedia.org/wiki/%CE%95%CF%85%CE%BA%CE%BB%CE%B5%CE%AF%CE%B4%CE%B5%CE%B9%CE%B1_%CE%BC%CE%B5%CF%84%CF%81%CE%B9%CE%BA%CE%AE#%CE%9C%CE%AF%CE%B1_%CE%B4%CE%B9%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7) για μια διάσταση. 
 *	Ευκλείδεια απόσταση [παράδειγμα](http://mathonline.wikidot.com/the-distance-between-two-vectors).
